@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301371357261",
+    "project_id": "whazft",
+    "storage_bucket": "whazft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301371357261:android:709c888c2be5c9c8dec404",
+        "android_client_info": {
+          "package_name": "azoftware.com.whatsappro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301371357261-q8idbushdbjcg4vib5s1o7fqdhd9gkaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMW1-mSUoUjmmFS91LbodEz9lekLpXICk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301371357261-q8idbushdbjcg4vib5s1o7fqdhd9gkaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

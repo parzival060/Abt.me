@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SetupActivity">
+
+    <include
+        android:id="@+id/toolbar_setup"
+        layout="@layout/toolbar_principal"></include>
+    <ScrollView
+        android:id="@+id/mi_scroll_view1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar_setup">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/nombre_setup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/textos"
+                android:hint="@string/Ingresar_usuario"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/ciudad_setup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/nombre_setup"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/textos"
+                android:hint="@string/ingrese_correo"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/estado_setup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ciudad_setup"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/textos"
+                android:hint="@string/Ingresar_numero"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/edad_setup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/estado_setup"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/textos"
+                android:hint="@string/ingrese_edad"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/genero_setup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/edad_setup"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/textos"
+                android:hint="@string/ingrese_genero"
+                android:padding="10dp" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imagen_setup"
+                android:layout_width="117dp"
+                android:layout_height="107dp"
+                android:layout_below="@+id/genero_setup"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/subirfoto"
+                app:civ_border_color="@color/black"
+                app:civ_border_width="2dp" />
+
+            <Button
+                android:id="@+id/boton_setup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imagen_setup"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="38dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/botones"
+                android:padding="10dp"
+                android:text="@string/guardar_informacion"
+                android:textColor="#ffffff" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

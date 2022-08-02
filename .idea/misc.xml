@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ABTADMIN/Documents/Whatsappro/app/src/main/res/layout/activity_bloquear_mensajes.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ABTADMIN/Documents/Whatsappro/app/src/main/res/layout/activity_inicio.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ABTADMIN/Documents/Whatsappro/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ABTADMIN/Documents/Whatsappro/app/src/main/res/layout/fragment_solicitudes.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ABTADMIN/Documents/Whatsappro/app/src/main/res/menu/menus_opciones.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/drawable/recibir_mensaje_layout.xml" value="0.2025" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_bloquear_mensajes.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_buscar_amigos.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_chat.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_grupo_chat.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_imagen.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_inicio.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_main.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_miperfil.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_perfil.xml" value="0.2" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_register.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_settings.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/activity_setup.xml" value="0.25" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/autenticar_numero.xml" value="0.22" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/fragment_chat.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/fragment_contactos.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/fragment_grupos.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/fragment_solicitudes.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/layout_chat_bar.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/toolbar_principal.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/user_display_layout.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/layout/usuario_mensaje_layout.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/kev_k/Desktop/FIME 7MO SEMESTR/Whatsappro/app/src/main/res/menu/menus_opciones.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/drawable/botonblanco.xml" value="0.1325" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/drawable/botones.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/drawable/enviar_mensaje_layout.xml" value="0.1325" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1325" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/drawable/ic_password.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/drawable/recibir_mensaje_layout.xml" value="0.1325" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/drawable/textos.xml" value="0.1325" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_buscar_amigos.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_chat.xml" value="0.22" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_grupo_chat.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_imagen.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_inicio.xml" value="0.15" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_miperfil.xml" value="0.18" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_perfil.xml" value="0.22" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_settings.xml" value="0.22" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/activity_setup.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/fragment_chat.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/fragment_contactos.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/fragment_grupos.xml" value="0.22" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/fragment_solicitudes.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/layout_chat_bar.xml" value="0.5" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/toolbar_principal.xml" value="0.1" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/user_display_layout.xml" value="0.18" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/layout/usuario_mensaje_layout.xml" value="0.15" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/menu/menus_opciones.xml" value="0.25" />
+        <entry key="..\:/Users/kev_k/Desktop/Whatsappro/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2075" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_buscar_amigos.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_chat.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_grupo_chat.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_imagen.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_inicio.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_login.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_main.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_miperfil.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_perfil.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_register.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_settings.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/activity_setup.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/fragment_chat.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/fragment_contactos.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/fragment_grupos.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/fragment_solicitudes.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/layout_chat_bar.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/toolbar_principal.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/user_display_layout.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/layout/usuario_mensaje_layout.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ortovar/Desktop/Whatsappro/app/src/main/res/menu/menus_opciones.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ortovar/Documents/Osiris/Enero-Junio 2022/LAB_Dispositivo/Whatsappro/app/src/main/res/layout/activity_inicio.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/ortovar/Documents/Osiris/Enero-Junio 2022/LAB_Dispositivo/Whatsappro/app/src/main/res/layout/activity_main.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/ortovar/Documents/Osiris/Enero-Junio 2022/LAB_Dispositivo/Whatsappro/app/src/main/res/layout/activity_miperfil.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/ortovar/Documents/Osiris/Enero-Junio 2022/LAB_Dispositivo/Whatsappro/app/src/main/res/layout/activity_perfil.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/ortovar/Documents/Osiris/Enero-Junio 2022/LAB_Dispositivo/Whatsappro/app/src/main/res/layout/activity_register.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/ortovar/Documents/Osiris/Enero-Junio 2022/LAB_Dispositivo/Whatsappro/app/src/main/res/layout/activity_settings.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/ortovar/Documents/Osiris/Enero-Junio 2022/LAB_Dispositivo/Whatsappro/app/src/main/res/layout/toolbar_principal.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/ortovar/Documents/Osiris/Enero-Junio 2022/LAB_Dispositivo/Whatsappro/app/src/main/res/layout/user_display_layout.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/ortovar/Documents/Osiris/Enero-Junio 2022/LAB_Dispositivo/Whatsappro/app/src/main/res/menu/menus_opciones.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/drawable/textos.xml" value="0.2203125" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_buscar_amigos.xml" value="0.22" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_chat.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_grupo_chat.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_imagen.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_inicio.xml" value="0.1" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_main.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_miperfil.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_perfil.xml" value="0.1" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_register.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_settings.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/activity_setup.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/fragment_chat.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/fragment_contactos.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/fragment_grupos.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/fragment_solicitudes.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/layout_chat_bar.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/toolbar_principal.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/user_display_layout.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/layout/usuario_mensaje_layout.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/ortovar/Downloads/Whatsappro/app/src/main/res/menu/menus_opciones.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

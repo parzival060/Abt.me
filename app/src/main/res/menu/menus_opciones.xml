@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/buscar_contactos_menu"
+
+        android:icon="@android:drawable/ic_menu_myplaces"
+
+        android:title="@string/buscar_contactos_menu"
+        android:visible="true"
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/buscar_contactos_menu"
+
+        android:icon="@android:drawable/ic_menu_myplaces"
+
+        android:title="Equipos de trabajo"
+        android:visible="true"
+        app:showAsAction="never"></item>
+
+
+    <item
+        android:id="@+id/miperfil_menu"
+        android:title="@string/miperfil_menu"
+
+        android:icon="@drawable/images_avatar"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/cerrarsesion_menu"
+        android:title="@string/cerrarsesion_menu"
+        app:showAsAction="never"
+        android:icon="@android:drawable/ic_lock_power_off"
+        >
+
+
+    </item>
+
+
+</menu>

@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">My ABT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    // for login
+    <string name="prompt_email">Correo electronico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_nombre">Nombre</string>
+    <string name="prompt_confirm_password">confirmar contraseña</string>
+    <string name="action_sign_in">Iniciar sesion</string>
+    <string name="action_sign_in_short">iniciar sesion</string>
+    <string name="action_sign_up">Registro</string>
+    <string name="error_invalid_email">el email es invalido</string>
+    <string name="error_invalid_password">la contraseña es demasiado corta</string>
+    <string name="error_incorrect_email_password">el correo o la contraseña son incorrectos</string>
+    <string name="sign_up_free">No tienes una cuenta? Registrate ahora!</string>
+    <string name="create_account">Crear una cuenta</string>
+    <string name="sign_in_free">Ya tienes cuenta? Inicia sesion</string>
+    <string name="authenticating">Authenticando...</string>
+    <string name="confirm_email">Confirmar correo</string>
+    <string name="please_confirm_email">Porfavor confirma tu correo (%s) para crear la cuenta</string>
+    <string name="user_login_successful">registro completo</string>
+    <string name="ok">Ok</string>
+    <string name="idjoin">UNIR</string>
+    <string name="action_logout">salir</string>
+    <string name="action_chat">Chat</string>
+    <string name="action_videocall">videollamada</string>
+
+    <string name="hello_word">cambiar idioma</string>
+    <string name="start" translatable="false">Empezar</string>
+    <string name="box1">Administrador</string>
+    <string name="box2">Usuario</string>
+    <string name="enviar_mensaje">Enviarmensaje</string>
+
+    <string name="display_name" translatable="false">Nombre</string>
+
+    <string name= "MI_ESTADO" >Mi Estado</string>
+    <string name= "Genero" >Genero</string>
+    <string name= "Edad" >Edad</string>
+    <string name= "Ciudad" >Ciudad</string>
+    <string name= "Nombre" >Nombre</string>
+
+
+    <string name= "actualizar_informacion" >Actualizar informacion</string>
+    <string name= "Ingresar_numero" >Ingrese su numero de telefono</string>
+    <string name= "Cargando_contactos" >Cargando tus contactos, espere</string>
+    <string name= "Ingresar_usuario" >Ingrese un nombre de Usuario</string>
+    <string name= "Chats" >Chats</string>
+    <string name= "Grupos" >Grupos</string>
+    <string name= "Contactos" >Contactos</string>
+    <string name= "Solicitudes" >Solicitudes</string>
+
+    <string name= "buscar_contactos_menu" >Buscar</string>
+    <string name= "miperfil_menu" >Mi Perfil</string>
+    <string name= "cerrarsesion_menu" >cerrar sesion</string>
+    <string name= "error_invalid_parent" >la contraseña no coincide</string>
+    <string name="cancelar_solicitud">CANCELAR SOLICITUD</string>
+    <string name="cambiar_idioma">Cambiar idioma</string>
+    <string name="ingresar_mensaje">Ingrese el mensaje</string>
+    <string name="ingrese_nombre">Ingrese su nombre</string>
+    <string name="ingrese_correo">Ingrese correo</string>
+    <string name="ingrese_estado">Ingrese un Estado</string>
+    <string name="ingrese_edad">Ingrese su edad</string>
+    <string name="ingrese_genero">Ingrese su género</string>
+    <string name="guardar_informacion">GUARDAR INFORMACION</string>
+    <string name="nombre_usuario">Nombre Usuario</string>
+    <string name="estado">Estado</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="mensaje">Recibir Mensaje</string>
+    <string name="mensaje_usuario">Enviar Mensaje Usuario</string>
+
+
+</resources>
