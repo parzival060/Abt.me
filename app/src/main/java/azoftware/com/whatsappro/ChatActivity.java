@@ -111,7 +111,7 @@ public class ChatActivity extends AppCompatActivity {
 
         IniciarelLayout();
         nombreusuario.setText(nombre);
-        Picasso.get().load(imagens).placeholder(R.drawable.welcome).into(usuarioimagen);
+        Picasso.get().load(imagens).placeholder(R.drawable.descarga).into(usuarioimagen);
         dialog = new ProgressDialog(this);
 
         mensajeAdapter = new MensajeAdapter(mensajesList);

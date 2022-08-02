@@ -54,7 +54,7 @@ public class InicioActivity extends AppCompatActivity {
         setContentView(R.layout.activity_inicio);
         toolbar=(Toolbar)findViewById(R.id.app_main_toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("ChatFam");
+        getSupportActionBar().setTitle("Abt.me");
         myviewPager = (ViewPager)findViewById(R.id.main_tabs_pager);
         myacesoTabsAdapter = new AcesoTabsAdapter(getSupportFragmentManager());
         myviewPager.setAdapter(myacesoTabsAdapter);

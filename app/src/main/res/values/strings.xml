@@ -72,4 +72,14 @@
     <string name="mensaje_usuario">Enviar Mensaje Usuario</string>
 
 
+
+    <string name="idbienvenida">Bienvenido a ABT.ME</string>
+    <string name="idcerrar">Cerrar</string>
+    <string name="idsala">Sala</string>
+    <string name="idqr">CONSULTAR QR</string>
+    <string name="qrbutton">Abrir escaner QR</string>
+    <string name="idescanerqr">Escaner qr</string>
+    <string name="idbtnatras">Atras</string>
+
+
 </resources>

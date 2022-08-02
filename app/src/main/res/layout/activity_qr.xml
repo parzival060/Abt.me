@@ -36,7 +36,7 @@
         app:layout_constraintVertical_bias="0.865" />
 
     <TextView
-        android:id="@+id/textView8"
+        android:id="@+id/idescanerqr"
         android:layout_width="277dp"
         android:layout_height="64dp"
         android:gravity="center_horizontal"
@@ -82,16 +82,20 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.008" />
 
-    <ImageView
-        android:id="@+id/imageView12"
-        android:layout_width="272dp"
-        android:layout_height="176dp"
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation_view2"
+        android:layout_width="269dp"
+        android:layout_height="212dp"
+
         app:layout_constraintBottom_toBottomOf="parent"
+
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
+
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.435"
-        app:srcCompat="@drawable/imgscan" />
+        app:layout_constraintVertical_bias="0.381"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/qranimacion" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

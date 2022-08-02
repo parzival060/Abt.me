@@ -9,6 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 
 public class ActivityHome extends AppCompatActivity {
@@ -21,9 +22,9 @@ public class ActivityHome extends AppCompatActivity {
         setContentView(R.layout.activity_home);
 
         Button chat = findViewById(R.id.btnview);
-        Button meet = findViewById(R.id.btnview2);
+        Button meet = findViewById(R.id.idsala);
         Button lector = findViewById(R.id.btnview3);
-        Button logout = findViewById(R.id.button02);
+        Button logout = findViewById(R.id.idcerrar);
 
         chat.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -53,12 +54,24 @@ public class ActivityHome extends AppCompatActivity {
         logout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
-                startActivity(intent);
+                mAuth.signOut();
+                EnviarALogin();
             }
         });
 
 
+        UserRef = FirebaseDatabase.getInstance().getReference().child("Usuarios");
+        mAuth = FirebaseAuth.getInstance();
+        CurrentUserId = mAuth.getCurrentUser().getUid();
 
+    }
+
+
+
+    private void EnviarALogin(){
+        Intent intent = new Intent(ActivityHome.this, LoginActivity.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK| Intent.FLAG_ACTIVITY_CLEAR_TASK);
+        startActivity(intent);
+        finish();
     }
 }

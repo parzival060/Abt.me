@@ -65,4 +65,19 @@
     <string name="mensaje">Receive Message</string>
     <string name="mensaje_usuario">Send User Message</string>
     <string name= "Ingresar_numero" >Enter your number phone</string>
+
+
+
+
+
+    <string name="idbienvenida">WELCOME TO ABT.ME</string>
+    <string name="idcerrar">lOGOUT</string>
+    <string name="idsala">MEET</string>
+    <string name="idqr">qr tool</string>
+    <string name="qrbutton">Open scanner QR</string>
+    <string name="idescanerqr">scanner qr</string>
+    <string name="idbtnatras">Back</string>
+
+
+
 </resources>

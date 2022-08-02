@@ -11,11 +11,16 @@
 
     <!--EditText for taking input room name from user-->
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="284dp"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/iconoreu" />
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation_view"
+        android:layout_width="307dp"
+        android:layout_height="282dp"
+
+        app:lottie_autoPlay="true"
+
+        app:lottie_loop="true"
+
+        app:lottie_rawRes="@raw/animacionconferencia" />
 
     <EditText
         android:id="@+id/conferenceName"
